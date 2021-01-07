@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Links
+ [My Steam](https://steamcommunity.com/id/ShimmyMySherbet/)
+ 
+ [My Discord](https://discord.gg/mqsNEF7)
+
+ You can buy my plugins from [Imperial Plugins](https://imperialplugins.com/Merchant/ShimmyMySherbet)
+
 <!--
 **ShimmyMySherbet/ShimmyMySherbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

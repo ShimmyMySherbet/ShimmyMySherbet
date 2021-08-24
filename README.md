@@ -6,6 +6,9 @@
  [My Discord](https://discord.shimmymysherbet.com/)
 
  You can buy my plugins from [Imperial Plugins](https://imperialplugins.com/Merchant/ShimmyMySherbet)
+ 
+ [![ShimmyMySherbet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimmyMySherbet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ShimmyMySherbet/ShimmyMySherbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

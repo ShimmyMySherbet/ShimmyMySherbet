@@ -3,7 +3,7 @@
 ### Links
  [My Steam](https://steamcommunity.com/id/ShimmyMySherbet/)
  
- [My Discord](https://discord.gg/mqsNEF7)
+ [My Discord](https://discord.shimmymysherbet.com/)
 
  You can buy my plugins from [Imperial Plugins](https://imperialplugins.com/Merchant/ShimmyMySherbet)
 

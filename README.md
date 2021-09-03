@@ -4,6 +4,8 @@
  [My Steam](https://steamcommunity.com/id/ShimmyMySherbet/)
  
  [My Discord](https://discord.shimmymysherbet.com/)
+ 
+ [Github Gists](https://gist.github.com/ShimmyMySherbet)
 
  You can buy my plugins from [Imperial Plugins](https://imperialplugins.com/Merchant/ShimmyMySherbet)
  

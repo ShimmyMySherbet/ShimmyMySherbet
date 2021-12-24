@@ -11,6 +11,8 @@
  
  [My Discord Server](https://discord.shimmymysherbet.com/)
  
+ My Discord: `ShimmyMySherbet#5694`
+ 
  My Email address: shimmy@shimmymysherbet.com
  
  ### Misc

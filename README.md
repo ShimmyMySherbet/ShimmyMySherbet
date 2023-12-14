@@ -13,7 +13,7 @@
  
  My Discord: `ShimmyMySherbet#5694`
  
- My Email address: shimmy@shimmymysherbet.com
+ My Email address: contact@ShimmyMySherbet.dev
  
  ### Misc
  

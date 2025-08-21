@@ -11,13 +11,11 @@
  
  [My Discord Server](https://discord.shimmymysherbet.com/)
  
- My Discord: `ShimmyMySherbet#5694`
+ My Discord: `ShimmyMySherbet`
  
  My Email address: contact@ShimmyMySherbet.dev
  
  ### Misc
- 
-  #### As of Dec 6, 2021, I sign all my commits.
  
  <img src="https://komarev.com/ghpvc/?username=ShimmyMySherbet&color=blueviolet">
 

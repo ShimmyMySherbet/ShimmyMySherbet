@@ -20,8 +20,7 @@
  <img src="https://komarev.com/ghpvc/?username=ShimmyMySherbet&color=blueviolet">
 
  
- [![ShimmyMySherbet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimmyMySherbet)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats](./profile/stats.svg)
 
 
 
